@@ -20,7 +20,7 @@ The goal is to help stakeholders identify high-performing regions, optimize inve
 
 
 ## 🖥️ Preview
-[Dataslide Sales Dashboard](https://github.com/Lawal-Jnr-Analyst/Adidas-sales-performance-analysis/blob/main/ADIDAS%20Dashboard.jpg)
+[Dataslide Sales Dashboard](https://github.com/Lawal-Jnr-Analyst/Dataslide-Sales/blob/main/DATASLIDE%20SALES_page-0001.jpg)
 >click the image above to see a preview of the final dashboard.
 
 
